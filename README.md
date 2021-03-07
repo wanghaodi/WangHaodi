@@ -7,15 +7,19 @@
   </a>
 </p>
 
-### Hi,there 👋
+### Hi there 👋, I'm [HD](https://github.com/wanghaodi)!
 
 #### About me
 
-What's past is prologue.
+- &#x1F52D; What's past is prologue.
+- &#x1F4EB; 个人博客 [Blog](https://whdi.top)
+- &#x1F914; Flee as a bird to your mountain!
 
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=wanghaodi&count_private=true&show_icons=true&theme=material-palenight" alt="Anurag's github stats" />
 
-- [Blog](https://whdi.top)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanghaodi&layout=compact&theme=material-palenight"/>
 
+<!--
 #### Platforms&tools
 
 [![](https://img.shields.io/badge/-Ubuntu%2020.04%20LTS-E95420?style=flat-square&logo=Ubuntu&logoColor=white)](https://ubuntu.com/)
@@ -43,3 +47,4 @@ What's past is prologue.
 [![](https://img.shields.io/badge/-R-276dc3?style=flat-square&logo=R&logoColor=white)](https://www.r-project.org/)
 [![](https://img.shields.io/badge/-LaTex-008080?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/)
 [![](https://img.shields.io/badge/-CloudFlare-f38020?style=flat-square&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
+-->
