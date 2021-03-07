@@ -3,7 +3,7 @@
     <img src="https://count.getloli.com/get/@github.wanghaodi.readme?theme=rule34" alt="github.wanghaodi.readme" />
   </a>
   <a href="">
-    <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=wanghaodi&count_private=true&show_icons=true&theme=material-palenight" alt="WangHaodi's github stats" style="zoom:30%;" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=wanghaodi&theme=vue&show_icons=true&count_private=true&hide_title=true" style="zoom:30%;" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@
 - &#x1F4EB; 个人博客 [Blog](https://whdi.top)
 - &#x1F914; Flee as a bird to your mountain!
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanghaodi&layout=compact&theme=material-palenight"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanghaodi&layout=compact&theme=vue"/>
 
 <!--
 #### Platforms&tools
