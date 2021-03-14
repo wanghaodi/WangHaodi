@@ -7,7 +7,7 @@
   </a>
 </p>
 
-### Hi there 👋, I'm [HD](https://github.com/wanghaodi)!
+### Hi there 👋, I'm [Johnny Wang](https://github.com/wanghaodi)!
 
 #### About me
 
